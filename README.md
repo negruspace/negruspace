@@ -5,7 +5,7 @@
 
 - 👨‍💻 Mis proyectos puedes verlos en [https://negruspace.github.io](https://negruspace.github.io)
 
-- 💬 Puedes preguntarme sobre **html | css | bootstrap |Illustrator**
+- 💬 Puedes preguntarme sobre **html | css | bootstrap |JS| Illustrator**
 
 - 📫 Puedes contactarme **nelsonparedes992@gmail.com**
 
